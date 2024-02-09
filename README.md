@@ -13,3 +13,6 @@
 - Linear Regression
 - K Nearest Neighbors Classification
 - Decision Tree Classifier
+- AdaBoost Classifier
+- **Tech**: Pandas, Numpy, Matplotlib, Seaborn, Sklearn
+- **Link**: https://github.com/Devang-Shah-49/Synapse-Learning-Period/tree/Week-2
