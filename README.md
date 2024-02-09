@@ -11,3 +11,5 @@
 
 ### Week 2
 - Linear Regression
+- K Nearest Neighbors Classification
+- Decision Tree Classifier
