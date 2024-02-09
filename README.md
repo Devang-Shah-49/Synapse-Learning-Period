@@ -8,3 +8,6 @@
 - Data Pre-processing
 - **Tech**: Pandas, Numpy, Matplotlib
 - **Link**: https://github.com/Devang-Shah-49/Synapse-Learning-Period/tree/Week-1
+
+### Week 2
+- Linear Regression
