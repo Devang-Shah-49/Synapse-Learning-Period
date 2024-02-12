@@ -16,3 +16,8 @@
 - AdaBoost Classifier
 - **Tech**: Pandas, Numpy, Matplotlib, Seaborn, Sklearn
 - **Link**: https://github.com/Devang-Shah-49/Synapse-Learning-Period/tree/Week-2
+
+### Week 3
+- Hyper-parameter tuning for KNN
+- **Tech**: Pandas, Numpy, Matplotlib, Seaborn, Sklearn
+- **Link**: https://github.com/Devang-Shah-49/Synapse-Learning-Period/tree/Week-3
