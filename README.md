@@ -18,7 +18,7 @@
 - **Link**: https://github.com/Devang-Shah-49/Synapse-Learning-Period/tree/Week-2
 
 ### Week 3
-- Hyper-parameter tuning for KNN
-- K-Fold Cross Validation for Linear Regression, KNN, Decision Tree
-- **Tech**: Pandas, Numpy, Matplotlib, Seaborn, Sklearn
+- Hyper-parameter tuning for KNN, Decision Tree
+- K-Fold Cross Validation for Linear Regression, KNN, Random Forest
+- **Tech**: Pandas, Numpy, Matplotlib, Seaborn, Sklearn, Regex
 - **Link**: https://github.com/Devang-Shah-49/Synapse-Learning-Period/tree/Week-3
